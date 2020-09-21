@@ -1,0 +1,33 @@
+body0 {
+  background-color: #7d3cc3;
+  font-size: 16pt;
+  font-family: sans-serif;
+  color: #59eaff;
+}
+body {
+  background-color: #7d3cc3;
+  font-family: sans-serif;
+  color: #59eaff;
+}
+
+a {
+  color: #cc7eff;
+}
+hr {
+  border-style: dotted none none;
+  border-width: 8px;
+  border-color: #249fb2;
+  width: 10%;
+}
+h1 {
+  font-family: serif;
+  color: #ffb073;
+}
+h2 {
+  font-family: serif;
+  color: #ffb073;
+}
+h3 {
+  font-family: serif;
+  color: #ffb073;
+}
